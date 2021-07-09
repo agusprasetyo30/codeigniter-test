@@ -2,7 +2,9 @@
 Riset ini bertujuan untuk mengetahui alur dan cara kerja CodeIgniter 3, dan untuk mengobati rasa penasaran saya :bowtie:
 
 # Tutorial
-- 
+- [https://www.warungbelajar.com/category/tutorial-codeigniter/page/5](https://www.warungbelajar.com/category/tutorial-codeigniter/page/5)
+> Mungkin enggak sampai akhir, tapi memahami dasarnya saja hehee...
+> Intinya yang penting paham alurnya
 
 # Server Requirements
 
