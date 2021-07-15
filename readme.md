@@ -7,8 +7,13 @@ Riset ini bertujuan untuk mengetahui alur dan cara kerja CodeIgniter 3, dan untu
 > Intinya yang penting paham alurnya
 
 # Step by step tutorial
-   - Mempelajari tentang MVC yang ada di CI-3 [X]
-   - Mempelajari tentang alur route CI-3 [X]
+   ## Refrensi [warungbelajar.com](https://warungbelajar.com)
+   
+   - Mempelajari tentang MVC yang ada di CI-3 [X] [Link](https://www.warungbelajar.com/mengenal-konsep-mvc-di-codeigniter.html)
+   - Mempelajari tentang alur route CI-3 [X] [Link](https://www.warungbelajar.com/mengenal-konsep-routing-di-codeigniter.html)
+   - Membuat Model, View, dan Controller []
+   - Passing data dari `Controller` ke `View` []
+   - Passing data dari `Model` ke `Controller` dan ditampilkan di `View` []
    - ...
 
 # Server Requirements
