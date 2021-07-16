@@ -13,8 +13,10 @@ Riset ini bertujuan untuk mengetahui alur dan cara kerja CodeIgniter 3, dan untu
    - Mempelajari tentang alur route CI-3 [X] [Link](https://www.warungbelajar.com/mengenal-konsep-routing-di-codeigniter.html)
    - Membuat Model, View, dan Controller []
    - Passing data dari `Controller` ke `View` []
-   - Passing data dari `Model` ke `Controller` dan ditampilkan di `View` []
-   - ...
+   - Passing data dari `Model` ke `Controller` dan ditampilkan di `View` [] 
+   - Mengenal Fungsi Helper, pada kasus ini menggunakan helper `html` []
+   - Membuat Helper sendiri []
+   - 
 
 # Server Requirements
 
